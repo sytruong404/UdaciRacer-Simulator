@@ -1,0 +1,38 @@
+/* CREATE PAGE SPECIFIC STYLES */
+
+.trackCard {
+  width: 400px;
+  height: 250px;
+}
+
+.racerCard {
+  width: 350px;
+  height: 200px;
+} 
+
+.card {
+  width:400px;
+  height: 360px;
+}
+
+/* -------------------  MOBILE  --------------------- */
+
+header {
+  background-image: url('https://via.placeholder.com/1150');
+}
+
+
+/* -------------------  TABLET  --------------------- */
+@media (min-width: 768px) {
+
+}
+
+/* -------------------  DESKTOP  -------------------- */
+
+@media (min-width: 1224px) {
+}
+
+/* -------------------  LARGE SCREENS  -------------- */
+
+@media (min-width: 1824px) {
+}
